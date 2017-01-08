@@ -1,0 +1,9 @@
+/home/leibert/Documents/pizzatest/IOtest/IOtest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/IOtest.exe.mdb
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/IOtest.exe
+/home/leibert/Documents/pizzatest/IOtest/IOtest/obj/x86/Debug/IOtest.exe
+/home/leibert/Documents/pizzatest/IOtest/IOtest/obj/x86/Debug/IOtest.exe.mdb
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/Raspberry.System.dll
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/Raspberry.IO.dll
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/Raspberry.IO.GeneralPurpose.dll
+/home/leibert/Documents/pizzatest/IOtest/IOtest/bin/Debug/Raspberry.IO.Interop.dll
