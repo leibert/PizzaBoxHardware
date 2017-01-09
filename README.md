@@ -1,4 +1,4 @@
-# pizzaboxhardware
+#Pizzabox Hardware / C# Raspberry PI GPIO Interface
 IO Interface for PizzaBox
 
 This is a C# program to interface with a Raspebery PI GPIO to control the hardware for the PizzaOrderbox.
@@ -8,5 +8,5 @@ The hardware allows you to configure select different audio/alarm zones for noti
 Orders are subsequently tracked and visually indicated through a series of rotating light beacons and audibly through bells and chimes.
 
 Two sets of tracking hardware units have been deployed for Unit 2 / Unit 1 which are communicated through IOS Nodes
-https://github.com/leibert/ESPNode/tree/master/deployed/Unit%201%20Beacon%20Lights/ESPNode
-https://github.com/leibert/ESPNode/tree/master/deployed/Unit%202%20Beacon%20Lights/ESPNode
+[Unit 1 Beacon Lights] (https://github.com/leibert/ESPNode/tree/master/deployed/Unit%201%20Beacon%20Lights/ESPNode)
+[Unit 1 Beacon Lights] (https://github.com/leibert/ESPNode/tree/master/deployed/Unit%202%20Beacon%20Lights/ESPNode)
