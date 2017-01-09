@@ -4,7 +4,7 @@
 This is a C# program to interface with a Raspebery PI GPIO to control the hardware for the PizzaOrderbox.
 Routines to interface with Domino's and actually order food are on devlaf's account under (https://github.com/devlaf/PizzaButton).
 
-![Firebox GIF](leibert.github.io/tree/master/images)
+![Firebox GIF](http://github.com/leibert/leibert.github.io/blob/master/images/firebox.gif)
 
 The hardware allows you to configure select different audio/alarm zones for notification, setup the order (add breadsticks / toppings), set the magnitude of pizza greatness, and once configured trigger the order placement.
 Orders are subsequently tracked and visually indicated through a series of rotating light beacons and audibly through bells and chimes.
