@@ -14,3 +14,9 @@ Two sets of tracking hardware units have been deployed for Unit 2 / Unit 1 which
 [Unit 1 Beacon Lights] (https://github.com/leibert/ESPNode/tree/master/deployed/Unit%201%20Beacon%20Lights/ESPNode)
 
 [Unit 2 Beacon Lights] (https://github.com/leibert/ESPNode/tree/master/deployed/Unit%202%20Beacon%20Lights/ESPNode)
+
+
+[**Video of it in action when ordering a pizza from Domino's**](https://goo.gl/photos/rCeKnTKyvHTjdNFNA)
+
+
+
